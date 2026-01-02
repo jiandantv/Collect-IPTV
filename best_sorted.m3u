@@ -19,5 +19,3 @@ http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid
 http://110.189.153.160:1002/ggpd.flv
 #EXTINF:-1 tvg-name="自贡综合频道" tvg-logo="https://live.fanmingming.cn/tv/自贡综合频道.png" group-title="其他频道",自贡综合频道
 http://110.189.153.160:1001/zhpd.flv
-#EXTINF:-1 tvg-name="闯关东" tvg-logo="https://live.fanmingming.cn/tv/闯关东.png" group-title="其他频道",闯关东
-http://129.150.54.232:10001/yy/1354689861
