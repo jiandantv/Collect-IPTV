@@ -11,6 +11,8 @@ http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
 http://125.65.94.91:12351/live
 #EXTINF:-1 tvg-name="临夏综合" tvg-logo="https://live.fanmingming.cn/tv/临夏综合.png" group-title="其他频道",临夏综合
 http://124.152.34.102:8030/wCMq71/wCMq71_0.m3u8
+#EXTINF:-1 tvg-name="搜狐剧场" tvg-logo="https://live.fanmingming.cn/tv/搜狐剧场.png" group-title="其他频道",搜狐剧场
+https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1 tvg-name="汕尾综合" tvg-logo="https://live.fanmingming.cn/tv/汕尾综合.png" group-title="其他频道",汕尾综合
 http://183.239.226.235:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="自贡公共频道" tvg-logo="https://live.fanmingming.cn/tv/自贡公共频道.png" group-title="其他频道",自贡公共频道
